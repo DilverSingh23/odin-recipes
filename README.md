@@ -1,1 +1,2 @@
 # odin-recipes
+Odin Recipes is a website hosting a variety of different recipes displayed through HTML, utilizing the front-end skills obtained in The Odin Project's Foundations course. The recipes are specfically illustrated through links, lists and images using HTML.
