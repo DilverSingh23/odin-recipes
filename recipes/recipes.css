@@ -34,7 +34,7 @@ p {
     text-align: center;
 }
 
-.ingredients h4 {
+.ingredients h4, .steps h4 {
     font-size: 20px;
     font-family: 'Monaco', 'Verdana', 'Times New Roman';
 }
@@ -46,3 +46,22 @@ p {
     transform: translateX(-20px);
 }
 
+.steps {
+    text-align: center;
+}
+
+.steps ol {
+    list-style-type: none;
+    font-family: 'fantasy', 'Verdana', 'Times New Roman' ;
+}
+
+.steps #preheat {
+    transform: translateX(-17px);
+}
+
+.steps ol li {
+    margin-top: 20px;
+}
+hr {
+    border-color: black;
+}
